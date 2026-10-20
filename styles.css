@@ -13,5 +13,3 @@
 .search-row .search-submit{white-space:nowrap;gap:12px;min-height:49px}.search-row{align-items:stretch}.search-row .search{min-width:0}.search-row .sort{flex-shrink:0}@media(max-width:600px){.search-row{flex-wrap:wrap}.search-row .search{flex-basis:calc(100% - 106px)}.search-row .search-submit{padding:12px 17px;gap:8px}.search-row .sort{width:100%}.search-row .sort select{width:100%;max-width:none}}
 
 .player-source{display:flex;align-items:center;flex-wrap:wrap;gap:10px;padding:12px 20px;border-top:1px solid var(--line);background:#171d20;font-size:11px}.player-source label{color:#dbe1d5;font-weight:650}.player-source select{padding:8px 12px;border:1px solid #3a454b;border-radius:8px;background:#252a30;color:var(--text);font:inherit}.player-source span{color:var(--muted);line-height:1.5}@media(max-width:600px){.player-source span{width:100%}}
-
-.inline-game-screen{aspect-ratio:16/9;background:#070908;width:100%}.inline-game-screen iframe{display:block;border:0;width:100%;height:100%}.inline-game-screen:fullscreen{height:100vh;width:100vw;aspect-ratio:auto}
