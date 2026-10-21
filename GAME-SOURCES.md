@@ -12,7 +12,7 @@ OvO uses the public Construct Arcade player published at [games.construct.net/62
 
 ## Cookie Clicker
 
-Cookie Clicker uses the official web player at [orteil.dashnet.org/cookieclicker](https://orteil.dashnet.org/cookieclicker/). The official landing page identifies Cookie Clicker as the original game by Orteil and Opti and links to that web version. The card uses the published Cookie Clicker icon.
+Cookie Clicker uses the public GitHub Pages demo published by [ozh/cookieclicker](https://ozh.github.io/cookieclicker/), with the repository credited in the catalog. The repository describes itself as an educational mirror and points to the original game at Orteil’s domain; its files are not copied into this site. The card uses the published Cookie Clicker icon.
 
 ## Validation
 
