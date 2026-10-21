@@ -8,4 +8,4 @@ These are the published promotional images used by the catalog, retrieved Octobe
 | `escape-road.png` | [AZgames — Escape Road](https://azgames.io/escape-road) | [Cover](https://azgames.io/upload/imgs/escaperoad.png) |
 | `escape-road-2.png` | [AZgames — Escape Road 2](https://azgames.io/escape-road-2) | [Cover](https://azgames.io/upload/imgs/escaperoad21.png) |
 
-`ovo-icon.png` is the published OvO icon from the game's Google Play listing. The other three covers are sourced from their respective publisher pages above.
+`ovo-icon.png` is the published OvO icon from the game's Google Play listing. `cookie-clicker-icon.png` is the published Cookie Clicker icon from the official app listing. The other three covers are sourced from their respective publisher pages above.
