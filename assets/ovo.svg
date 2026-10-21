@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">OvO</title><desc id="desc">OvO platform game cover</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#342c6b"/><stop offset="1" stop-color="#121525"/></linearGradient></defs>
+  <rect width="640" height="400" rx="24" fill="url(#bg)"/>
+  <circle cx="518" cy="100" r="72" fill="#d8ff55" opacity=".2"/><circle cx="128" cy="318" r="130" fill="#b9a2ff" opacity=".12"/>
+  <path d="M84 292h142l31-54 32 32 48-73 41 53 57-24 74 66H84z" fill="#d8ff55" opacity=".9"/>
+  <circle cx="337" cy="167" r="42" fill="#f5f7ff"/><circle cx="337" cy="167" r="20" fill="#20243c"/>
+  <text x="72" y="122" fill="#f5f7ff" font-family="Arial,sans-serif" font-size="88" font-weight="800" letter-spacing="4">OvO</text>
+  <text x="78" y="358" fill="#c7cbe0" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3">RUN • JUMP • SLIDE</text>
+</svg>
